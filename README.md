@@ -1,6 +1,6 @@
 ## 🟡 Guess the Sprunki Quiz - ESP Level
 
-Este script está diseñado para mostrar marcadores ESP (flechas indicadoras) sobre los niveles y adivinar cual es el correcto.
+This script is designed to show ESP markers (indicator arrows) over the levels, helping you guess which one is correct.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Guess-the-Sprunki-Quiz-Script/refs/heads/main/Guess%20the%20Sprunki%20Quiz%20by%20AlexScriptX.lua"))()
@@ -8,30 +8,30 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Guess-the
 
 ---
 
-## ✨ Características Principales
+## ✨ Main Features
 
-- 🎯 ESP Dinámico por Distancia: Los marcadores solo aparecen cuando estás cerca de los objetos
-- 📊 Visualización Clara: Flechas amarillas con el número de nivel correspondiente
-- ⚡ Optimización Inteligente: Verificación periódica para máximo rendimiento
-- 🔄 Actualización Automática: Detecta cambios de personaje y objetos eliminados
-
----
-
-## 👓 Instrucciones de Uso
-
-1. Asegúrate de estar en el juego Guess the Sprunki Quiz.
-2. Ejecuta el script.
-3. Listo, tendras un ESP para cada nivel.
+- 🎯 Dynamic ESP by Distance: Markers only appear when you are near the objects.
+- 📊 Clear Visualization: Yellow arrows with the corresponding level number.
+- ⚡ Smart Optimization: Periodic checks for maximum performance.
+- 🔄 Automatic Updates: Detects character changes and deleted objects.
 
 ---
 
-## 🎮 Link del juego
+## 👓 Instructions
+
+1. Make sure you're in the Guess the Sprunki Quiz game.
+2. Run the script.
+3. Done, you'll have an ESP for each level.
+
+---
+
+## 🎮 Game Link
 
 https://www.roblox.com/es/games/132086995142789/Guess-the-Sprunki-Quiz
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-Desarrollado por **AlexScriptX**  
-🥇 Desarrollado para adivinar automaticamente las puertas correctas.
+Developed by **AlexScriptX**  
+🥇 Created to automatically guess the correct doors.
